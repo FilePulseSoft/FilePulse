@@ -10,6 +10,9 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件名*
 
 未来计划增加 **毫秒级文件内信息搜索** 功能。
 
+## 打赏
+![wechat.jpg](wechat.jpg)
+
 ---
 
 ## 启动说明
@@ -94,4 +97,10 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件名*
 - **优化启动时瞬时内存占用**（涉及架构重构）。
 - **进一步优化启动时间和搜索时间**。
 - **支持远程文件播放、远程编辑、远程差异同步**。
+
+## 截图
+![how_to_use.gif](how_to_use.gif)
+![screenshot1.png](screenshot1.png)
+![screenshot2.png](screenshot2.png)
+![screenshot3.png](screenshot3.png)
 

@@ -11,6 +11,9 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件名*
 
 未来计划增加 **毫秒级文件内信息搜索** 功能。
 
+## 下载地址
+- [FilePulse](https://github.com/FilePulseSoft/FilePulse/releases/)
+
 ## 打赏，有你的支持是我前进的动力
 
 <img src="wechat.jpg" alt="wechat" width="300">

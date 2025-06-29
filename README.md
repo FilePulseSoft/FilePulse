@@ -21,7 +21,7 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件** �
    **。
 5. **支持复杂逻辑表达式**，包括非、与、或、左括号、右括号。
 6. 支持 **高性能拼音搜索**、**拼音首字母搜索**、**中文搜索**。
-7. **支持 HTTP1.1/HTTP2 / HTTP3 协议**，可 **远程操作** 与 **远程复杂查询**，未来将支持 **远程播放**。
+7. **支持 HTTP1.1/HTTP2 / HTTP3 协议**，可 **远程操作** 与 **远程复杂查询**，支持 **远程播放**。
 8. **文件夹大小实时计算**，所有数据 **实时同步**。
 9. **内存动态增减**，当大量文件删除时，内存会 **自动回收**。
 10. **支持暗色模式**
@@ -29,7 +29,7 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件** �
 ## 下载地址
 
 - [https://github.com/FilePulseSoft/FilePulse/releases](https://github.com/FilePulseSoft/FilePulse/releases/)
-
+- [https://www.filepulsesoft.com](https://www.filepulsesoft.com/)
 ---
 
 ## 启动说明

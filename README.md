@@ -39,6 +39,10 @@ FilePulse 是一款高效的对象信息搜索工具，对象包括 **文件** �
 
 - [https://github.com/FilePulseSoft/FilePulse/releases](https://github.com/FilePulseSoft/FilePulse/releases/)
 - [https://www.filepulsesoft.com](https://www.filepulsesoft.com/)
+
+## 视频教程
+- [https://space.bilibili.com/3546884696180744](https://space.bilibili.com/3546884696180744)
+
 ---
 
 ## 启动说明
